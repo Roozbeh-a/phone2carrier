@@ -1,0 +1,16 @@
+{
+  "name": "phone2carrier",
+  "version": "1.0.0",
+  "description": "Validation and number type recognition using libphonenumber library, country code recognition, and most importantly mobile carrier.",
+  "main": "Phone2Carriers.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "libphonenumber",
+    "phone",
+    "carrier"
+  ],
+  "author": "Roozbeh Asghari",
+  "license": "MIT"
+}
