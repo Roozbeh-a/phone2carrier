@@ -18,13 +18,13 @@ To use it as a library, you can do the following:
 const phone2carrier = require('phone2carrier');
 const result = phone2carrier.getPhoneFullDetails('447366105215');
 console.log(result);
-{
-  isValid: true,
-  ISO3: 'GBR',
-  countryCode: 44,
-  carrier: 'Three',
-  phoneType: 'MOBILE'
-}
+// {
+//   isValid: true,
+//   ISO3: 'GBR',
+//   countryCode: 44,
+//   carrier: 'Three',
+//   phoneType: 'MOBILE'
+// }
 ```
 
 
