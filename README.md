@@ -3,9 +3,9 @@ Phone2Carrier.
 What is it?
 -----------
 Phone2Carrier allows you to find out the carrier of a phone number.
-For example, if you have a phone number like 447366105215, you can find out that it is a Verizon Wireless number.
-How do I use it?
+
 ----------------
+How do I use it?
 You can use it in two ways:
 1. As a command line tool(coming soon)
 2. As a library
