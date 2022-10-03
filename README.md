@@ -7,7 +7,7 @@ Installation
 ------------
 Install the package with:
 
-```npm i phone2carrier
+```npm i phone2carrier```
 ----------------
 ### Library
 To use it as a library, you can do the following:
