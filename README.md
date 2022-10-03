@@ -1,7 +1,13 @@
 Phone2Carrier.
 ================
 Phone2Carrier allows you to find out the carrier of a phone number.
+------------
 
+Installation
+------------
+Install the package with:
+
+   npm i phone2carrier
 ----------------
 ### Library
 To use it as a library, you can do the following:
@@ -35,7 +41,7 @@ If you need help, you can do so by doing the following:
 
 License
 -------
-This project is licensed under the MIT license. See the LICENSE file for more info.
+This project is licensed under the MIT license.
 
 
 

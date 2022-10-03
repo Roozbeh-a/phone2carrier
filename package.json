@@ -1,6 +1,6 @@
 {
   "name": "phone2carrier",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "Validation and number type recognition using libphonenumber library, country code recognition, and most importantly mobile carrier.",
   "main": "Phone2Carriers.js",
   "scripts": {
